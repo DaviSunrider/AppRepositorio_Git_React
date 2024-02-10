@@ -6,6 +6,7 @@ const EstiloGlobal = createGlobalStyle`
   margin: 0;
   padding: 0;
   font-family: 'Ubuntu', sans-serif;
+  list-style: none;
 }
 
 body {
